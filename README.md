@@ -1,5 +1,12 @@
-### Hi there 👋
+### sodalitz 👋
 
+## SPRING 프로젝트 🌱
+https://github.com/kimminhyeong1/kim4ever 
+
+</br>
+
+## 아두이노 프로젝트 📫
+https://github.com/sodalitz/arduino
 <!--
 **sodalitz/sodalitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
