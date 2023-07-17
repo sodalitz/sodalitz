@@ -1,7 +1,7 @@
 ### sodalitz 👋
 
 ## SPRING 프로젝트 🌱
-프로젝트 링크: https://github.com/kimminhyeong1/kim4ever 
+### 프로젝트 링크: https://github.com/kimminhyeong1/kim4ever </br>
 팀 명 : 김가네</br>
 프로젝트명 : 타:바</br>
 프로젝트 소개 : 전주시에서 운영되는 공영자전거대여 플랫폼과 자전거 모임 활동을 통합한 프로젝트입니다.</br>
