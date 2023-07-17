@@ -2,7 +2,7 @@
 
 ## SPRING 프로젝트 🌱
 https://github.com/kimminhyeong1/kim4ever 
-
+ <img width="100%" src="https://i.imgur.com/BkL8Vfs.png" alt="로고">
 </br>
 
 ## 아두이노 프로젝트 📫
