@@ -13,7 +13,13 @@
 </br>
 
 ## 아두이노 프로젝트 📫
-https://github.com/sodalitz/arduino
+
+### 프로젝트 링크:https://github.com/sodalitz/arduino</br>
+프로젝트명 : 아두이노 공기청정기</br>
+프로젝트 소개 : 일반적인 공기청정기 상단에 상하좌우로 회전 가능한 팬을 추가한 제품</br>
+프로젝트 기간 : 2022.04.20 - 2022.06.20</br>
+<div align="center">
+ <img width="150px" src="https://github.com/sodalitz/sodalitz/assets/131415789/46c0c62a-e602-4571-a299-c4761572ecac" alt="로고"></div>
 <!--
 **sodalitz/sodalitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
