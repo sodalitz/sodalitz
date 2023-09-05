@@ -1,4 +1,5 @@
 ### sodalitz 👋
+노션 : https://battle-swordfish-c2e.notion.site/84599a108e7f45db8d6629f7d429be98
 
 ## SPRING 프로젝트 🌱
 ### 프로젝트 링크: https://github.com/kimminhyeong1/kim4ever </br>
